@@ -1,4 +1,3 @@
-# one.com project to setup a mail server
 Deploying of different packages for differnt protocols.
 1.POSTFIX for SMTP
 2.DOVECOT for IMAP
